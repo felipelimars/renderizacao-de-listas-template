@@ -65,5 +65,6 @@ export const Tarefa = styled.li`
   transition: background-color 0.3s;
   &:hover {
     background-color: lightblue;
+    cursor: pointer;
   }
 `;
